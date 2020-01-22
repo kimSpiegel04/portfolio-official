@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-official",
+  "version": "1.0.0",
+  "description": "official portfolio suitable for the internet",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimSpiegel04/portfolio-official.git"
+  },
+  "author": "kspiegel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimSpiegel04/portfolio-official/issues"
+  },
+  "homepage": "https://github.com/kimSpiegel04/portfolio-official#readme"
+}
